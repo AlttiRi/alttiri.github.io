@@ -1,0 +1,5 @@
+Host: https://alttiri.github.io
+
+User-agent: *
+Disallow: /codecademy/*
+Sitemap: https://alttiri.github.io/sitemap.xml

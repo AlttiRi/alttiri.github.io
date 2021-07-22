@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://alttiri.github.io/sitemap.xml</loc>
+  </url>
+
+  <url>
+    <loc>https://alttiri.github.io/formatted-number/</loc>
+  </url>
+  <url>
+    <loc>https://github.com/AlttiRi/formatted-number-vue3/</loc>
+  </url>
+  <url>
+    <loc>https://alttiri.github.io/md5-comparison/</loc>
+  </url>
+  <url>
+    <loc>https://alttiri.github.io/gfycat-id-camel-caser/</loc>
+  </url>
+  <url>
+    <loc>https://alttiri.github.io/crop-image-to-canvas/</loc>
+  </url>
+</urlset>

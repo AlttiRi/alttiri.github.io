@@ -1,0 +1,26 @@
+a {
+    text-decoration: none;
+    color: inherit;
+}
+.main-container-old {
+    flex-grow: 5;
+    max-width: 980px;
+    margin: 0 auto;
+    padding-bottom: 0.33em;
+}
+.radial-background {
+    background: radial-gradient(farthest-side ellipse at 50% 50%, white, rgba(0, 0, 0, 0.06));
+}
+.center {
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+
+    position: fixed;
+    top: 0;
+    left: 0;
+}
