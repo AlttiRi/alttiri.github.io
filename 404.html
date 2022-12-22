@@ -9,10 +9,15 @@
   <meta name="description" content="404 – not found">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <script>
-    const oldLocation = "https://alttiri.github.io/directory-snapshot-explorer";
-    const newLocation = "https://alttiri.github.io/file-manager-snapshot-explorer";
-    if (location.href.startsWith(oldLocation)) {
-      location.href = location.href.replace(oldLocation, newLocation);
+    const locationMap = [
+        ["https://alttiri.github.io/directory-snapshot-explorer", "https://alttiri.github.io/keep-lister"],
+        ["https://alttiri.github.io/file-manager-snapshot-explorer", "https://alttiri.github.io/keep-lister"],
+    ];
+
+    for (const [oldLocation, newLocation] of locationMap) {
+        if (location.href.startsWith(oldLocation)) {
+            location.href = location.href.replace(oldLocation, newLocation);
+        }
     }
   </script>
   
