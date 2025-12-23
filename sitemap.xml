@@ -14,10 +14,17 @@
   <url>
     <loc>https://alttiri.github.io/href-taker/demo</loc>
   </url>
-  
   <url>
     <loc>https://alttiri.github.io/href-taker/</loc>
   </url>
+
+  <url>
+    <loc>https://alttiri.github.io/long-path-files-drag-and-drop/</loc>
+  </url>
+  <url>
+    <loc>https://alttiri.github.io/long-path-files-drag-and-drop/image-drop-demo.html</loc>
+  </url>
+
   <url>
     <loc>https://alttiri.github.io/twitter-click-and-save/</loc>
   </url>
